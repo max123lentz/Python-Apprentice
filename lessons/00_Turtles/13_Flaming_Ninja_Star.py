@@ -6,7 +6,7 @@ Then change it to make it draw a different pattern.
 
 import random
 import turtle
-
+speed(10)
 
 # Returns a random color!
 def getRandomColor():

@@ -13,7 +13,7 @@ window.
 import turtle                           # Tell Python we want to work with the turtle
 turtle.setup(width=600, height=600)     # Set the size of the window
 
-tina = turtle.Turtle()                  # Create a turtle named tina
+t                  # Create a turtle named tina
 
 tina.shape('turtle')                    # Set the shape of the turtle to a turtle
 tina.speed(2)                           # Make the turtle move as fast, but not too fast.
@@ -52,4 +52,4 @@ turtle.exitonclick()                    # Close the window when we click on it
 
 # Now you can try writing your own programs. Open
 # the next file 03_Turtle_Tricks.py
-
+tina = turtle.Turtle()
